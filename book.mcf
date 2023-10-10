@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fotobook art_id="7248" article_name="Landscape%20Matte%20Photographic%20Lay-flat%20Hardcover%20Book" externalProjectId="" folderID="7f7b5f0e-ffe1-4606-90a9-c98a41b327fb" imagedir="template_mcf-Dateien" isDataMcf="0" productname="ALB99" startdatecalendarium="" useSpineLogo="1" version="4.0">
+ <project createdWithHPSVersion="7.1.5" createdWithHPSVersionBuild="20211201" projectID="70fa8d3a-78c2-4dcc-b58b-73da5070c5d9" projectIDCreatedEpoch="1696856713"/>
+ <savingVersion compatibilityVersion="6.4.2" programversion="7.1.5" programversionBuild="20211201" savetime="2023-10-09 16:39"/>
+ <creationHistory clientId="38" clientVersion="7.1.5-20211201-default" creationDate="2023-10-09 13:33"/>
+ <articleConfig normalpages="26" pagenaming="1" totalpages="31"/>
+ <addOns/>
+ <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="50" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
+  <outline width="0"/>
+ </pagenumbering>
+ <extra>
+  <lastTextFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="5" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+ </extra>
+ <page designStyleID="196083" pagenr="0" rotation="0" type="fullcover">
+  <bundlesize height="2100" width="5590"/>
+  <designElementIDs background="201" layout="384109" styles_v2="196083"/>
+  <background alignment="4" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="384109" layout="1" templatename="full_page_fotobooks,normal"/>
+  <area areatype="spinetextarea">
+   <position height="106" left="1795" rotation="90" top="997" width="2000" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="spine">
+    &lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+    <outline width="0"/>
+    <textFormat Alignment="ALIGNVCENTER,ALIGNLEFT" IndentMargin="0" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+  <area areatype="textarea">
+   <position height="230" left="2888" rotation="0" top="80" width="2642" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="title">
+    &lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+    <outline width="0"/>
+    <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="0" rotation="0" type="spine">
+  <bundlesize height="2100" width="5590"/>
+  <designElementIDs background="201" styles_v2="196083"/>
+  <background alignment="4" designElementId="201" rotation="0" type="1"/>
+ </page>
+ <page designStyleID="196083" pagenr="0" rotation="0" type="fullcover">
+  <bundlesize height="2100" width="5590"/>
+  <designElementIDs background="201" layout="422099" styles_v2="196083"/>
+  <background alignment="4" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="422099" layout="1" templatename="fullcoverpage_with_title,normal"/>
+ </page>
+ <page designStyleID="-1" pagenr="0" rotation="0" type="emptypage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+ </page>
+ <page designStyleID="196083" pagenr="1" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+ </page>
+ <page designStyleID="196083" pagenr="2" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Hello!</span>
+</p>
+<p><span>If you're at this page then chances are either myself or Jo have told you about our blog so that you can keep up to date with what were doing on our travels. The general idea  is to try and keep friends and family updated as to where we are and what were up to over the next year and a bit, by sharing stories and photos! If nothing else, I'm hoping this will keep my mum (&lt;em&gt;fairly&lt;/em&gt;) sane :)</span>
+</p>
+<p><span>The first stage of our &lt;strong&gt;EPIC&lt;/strong&gt; adventure is a nine week stay in Accra, Ghana where we will be putting Jo's teaching expertise and my knowledge of paper aeroplanes to good use in a charity run school. As we leave in a week and six days I'm getting mega excited and the whole thing is starting to feel pretty real! We've been told that the school has an I.T suite so this blog can be updated but seeing as during Jo's last visit they were teaching lessons outside I'm expecting to modify my interpretations of the phrase "I.T suite" somewhat.</span>
+</p>
+<p><span>Anyway, now that the blog is set up I have other things on my 'To Do' list which need attention before flight day so until next time!</span>
+</p>
+<p><span>Take care!</span>
+</p>
+<p><span>Tom</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="3" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>&lt;p style="text-align:left;"&gt;As the title states, we now reside in Africa!!&lt;/p&gt;</span>
+</p>
+<p><span>After landing pretty late at night we were picked up from the airport by Pat and her husband who took us to our new accomodation. Its the old teaching centre which has been converted and I'm told our bedroom is the old computer room. We have our own bathroom (empty room with bucket and hole in the wall for the water to drain out!) toilet and kitchen. We share the compound with a guy called Evens who also works for BASICS and as yet we havn't locked each other out!</span>
+</p>
+<p><span>The kitchen is fairly basic, we have a microwave (with a grill) and a fridge but we are yet to discover the cutlery and all we have to put in the fridge are the 39 little bags of water (500ml) which cost us the equivalent of 30p... yeh. We are hoping to get Auntie Via to teach us how to cook local dishes. The kids get cooking lessons so it shouldn't be difficult for us to eaves drop! Speaking of the food,its really great! We currently tally one spicy scrambled egg, a dish of red red (black eyed beans) and plantain, spicy sausage and pasta, and from the market, what we think was fish, rice and spice but it was too dark to really see! We're using the internet at the school so will hopefully be able to keep ontop of updates as and when our attention isn't taken by the kids (which are by the way, amazing!). The past two days have been pretty full on at BASICS, the kids are as crazy and unruly as before. I'd forgotten how much they love to punch one another!</span>
+</p>
+<p><span>There's currently a missionary group here who have their own program organised which has given us a chance just to sit back, figure out how things work and also try and learn a few (of the 120 plus staff) names!</span>
+</p>
+<p><span>Anyway, the computer room has open windows and the dance and drumming class &lt;strong&gt;really&lt;/strong&gt; are getting into the swing of things now making it a tad difficult to think.</span>
+</p>
+<p><span>Until next time,</span>
+</p>
+<p><span>Tom &amp;amp; Jo</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="4" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>This week at BASICS, a missionary group have been leading a programme of dance, crafts and games. Some of which went down really well, whilst others went over their heads. Attempts to get the youngest to cut and stick inspirational pictures and words, meant exactly that as they cut them to shreds and glued the picture side down, leaving bits of adverts facing up. However, the rotation element of the group activities has given us a chance interact with all the kids on a near one-to-one basis. There are far too many unique personalities and cheeky chappies to even begin mentioning them all, but they have kept us all entertained/on our feet all week and we can't wait for eight more like it!</span>
+</p>
+<p><span>Likewise, the local community have embraced us. We can't go a few feet without hearing "Tom, Tom", which changes popping out for some rice to more like a paparazzi experience. One woman even promised that if we returned tomorrow she would give him her baby, a promise we thought was going to be fulfilled as we returned tonight to find her with the infant in her arms rushing towards us.</span>
+</p>
+<p><span>On Thursday evening Pat (founder and boss lady of BASICS) took us to a local beach resort, although erase every preconceived image you had of resort and you're somewhat closer to reality. We were the only customers that night but we still had to hunt around for chairs, which wasn't helped by one of the mission group snapping two legs of his chair and hitting the deck! The music was very loud but the place had a great feel to it and it allowed us to get to know the other volunteers, Pat and Allotay (Pat's husband) in a social setting other than that of BASICS. We also went for a walk with them during the day down to the local beach, which I may well have told many of you about before. It was interesting to see all the local men preparing the fishing nets and boats, but let's just say we won't be swimming in the sea any time soon! &lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/08/dscf10151.jpg"&gt;&lt;img class="alignnone size-medium wp-image-38" title="DSCF1015[1]" src="http://greenteaandnoodles.files.wordpress.com/2012/08/dscf10151.jpg?w=300" alt="" width="300" height="225" /&gt;&lt;/a&gt;</span>
+</p>
+<p><span>This was followed on Friday by salsa on Friday evening at an outdoor bar where we were dragged on stage and taught some moves, only to learn they were to 'Mambo number 5'!</span>
+</p>
+<p><span>Love Jo and Tom</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="5" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Yesterday saw us celebrate a thanksgiving style occasion with the kids at BASIC's. The day started with Auntie Pat's pastor from the big apple arriving and giving an opening blessing followed quickly by a show of Azunto (African dancing), drumming and singing by a local troup. The kids had been practising their dance for a few weeks so they had it pretty sharp and after getting changed into their outfits quickly fell into the swing of things. Next up was food and man... it was so good! The center had ordered in a full pig and we managed to get a share of the belly pork and chicken! Trust me, it tastes &lt;strong&gt;EVEN&lt;/strong&gt; better when you've eaten predominantly beans, fish and rice for a week! (That being said, the Red-Red we sometimes have for breakfast which is a mixture of black eyed beans, fried plantain and sauce is AMAZING) The remainder of the day consisted of all the kids, super charged on the sugary drinks they were treated to, trying to teach me and Jo to dance like the display. I gotta say, it gets tiring fast and my knees don't quite let me pull off some of the moves as well as the younger, flexible kids. I did have a trump card however, showing them the cheesy dance move where you shuffle your hands between your knees. Hopefully this photo of Godfred attempting the manouvere will help you understand a tad better. &lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/08/dscf1051.jpg"&gt;&lt;img class="size-medium wp-image-36 aligncenter" title="DSCF1051" src="http://greenteaandnoodles.files.wordpress.com/2012/08/dscf1051.jpg?w=225" alt="" width="225" height="300" /&gt;&lt;/a&gt;</span>
+</p>
+<p><span>After many hours of non stop dancing the evening finally drew to a close and we headed home. The party itself had gone great, everyone had had a brilliant time and the kids were  well behaved. This mornings session with them has quickly reminded us that this rare pheonomenon only reallys occurs in these party sessions!</span>
+</p>
+<p><span>Love Tom &amp;amp; Jo</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="6" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>The second of our weekends in Ghana was spent west of Accra in Cape Coast. This involved a three hour journey in what can only be described as a rehashed transit van/rusty box with "wheels"/most widely used transport in Ghana, the Tro tro. This was my first time using such a method of transport and it is definitely an experience I will remember. You see, Ghanaian drivers have this habit of spending most of their journey on the wrong side of the road performing some daring overtaking manoeuvre. This, and the sardine style ethos of a seating plan  (what with vehicle capacity limits somewhat negotiable depending on how desperate you are to get where you're going) removed all chances of sleep!</span>
+</p>
+<p><span>On arrival at Cape Coast our first visit was to the castle, initially built by Swedish traders in 1653. Ghana was heavily involved in the slave trade and thus most of its castles and forts, if not originally built for, were used for this purpose. Cape Coast (and the nearby Elmina) were no exception. The white washed walls and Spanish style windows give away its European heritage. Although  an interesting building and likewise its role in history, the horrors and reality of what occurred there were very sobering. This was especially the case when standing in the condemned cell, a claustrophobic room devoid of light used to lock up unruly slaves to be left in to die. On a happier note we caved at lunchtime and had our first western meal, pizza and beer by the beach! We sat at Oasis Beach resort to satisfy our hunger whilst watching the, not so calm African coastline and fisherman. A lovely spot kitted out with palm trees and the like to chill out at but their advice on transport to Elmina was not quite up to scratch. We were quoted 40Ghc and we ended up paying 3.30Ghc for a taxi on the way there and 1.50Ghc on the way back for a Tro! Elmina itself is also known for its fort and therefore involvement with the slave trade. As the largest fort in Ghana, the distinction between slave and governor/soldier hit home to a greater extent. Similarly the sheer size of the place highlights how many lives were affected there. Conditions were so bad for the slaves that standing or crouching in the tightly packed holding cells were the only options in the unsanitary conditions. More harrowing was walking through the door of no return and experiencing every slaves last view of Africa before embarking on their cargo like journey into the unknown.</span>
+</p>
+<p><span>Sunday saw us visit Kakum, a national park protecting a rainforest. The park sports the world famous canopy walk, a series of tree top rope bridges connecting viewing platforms up to 40m high. We were informed by George, our guide, that maintanence takes place every six months and worn parts are repaired or replaced. In that case, its probably been about five months and 29 days since the last check up! Regardless of this, it was extremely worthwhile as the views incredible both to the rainforest floor and far into the distance. We had hoped to see some wildlife but the majority of our tour group being made of noisy Ghanians probably scared away anything within a three mile radius! In a further attempt we spend our near to final Ghanaian GHc on a nature walk. Our guide, George, informed us of the uses of all the trees and plants but our wildlife tally ranked at one frog and a few butterflies! To get back from Kakum we scraped together our final coins (much to our fellow Tro tro users amusement) and headed back to Cape Coast in desperate need of an ATM! I was rather pale by this point! But all's well that ends well, we made the two and a half hour Tro tro ride back to Accra in one piece, even after our driver trying something different from the usual "overtaking" to avoid traffic and instead went for the old, off roading through local back alleys and gutters to save us five minutes. Were pretty sure we were further back in the queue then we started!</span>
+</p>
+<p><span>Until the next post!</span>
+</p>
+<p><span>Love Tom &amp;amp; Jo</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="7" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>As school doesn't start until the 4th September, BASICS has been running its vacation programme. This involves splitting the children up into different activities and often just allowing them to be kids. Tom and I were soon put to good use, with me being sent up stairs to the IT suite and with no further warning asked to show them educational websites! Hmm... BBC it is then. Considering that the four children under my care were usually left to their own devises whilst the actual IT teacher taught a further 10 or so how to build their own websites, they were extremely receptive maths and spelling games. That was until the novelty wore off and the following days they were hoping for brand new games to entertain them. Even google couldn't save me, as everytime I found a suitable game they'd either stray off and find the one and only football game on the website, or they'd click an advert and I'd find them trying to guess passwords and even put in made up account information for payments!</span>
+</p>
+<p><span>Meanwhile, Tom was putting his skills to good use teaching the bass guitar! Although five days of rehearsals that he witnessed and presumably the entire summer holidays, the 5 strong band were only learning one song. Just the slight hum of 'Lean On Me' is guaranteed to drive him mad now, he's even had dreams about it! Whenever we'd reconvene for lunch he would look so drained and frustrated at their lack of ability, however this did improve and 4/5 were able to perform in the final vacation programme show with great success. This was the first time I'd heard them, and was pleasantly surprised, although it was a massive help that I knew what song was they were trying to play!! Afternoons were spent playing board games with a majority of the children and therefore a range of ages. As I knew the rules of Othello, it was soon passed to me to explain, and consequently every day after that it seemed to follow me. Many a time I thought it was all going well, until half way through a game they'd try to place their piece surrounded by their own colour! Time to call over another kid to translate, but they would then try to take over! This was nothing to the games of pairs we have witnessed, with the youngest children scrapping at wooden blocks often with no concept of taking turns. They had clearly formed a system of markings on the backs of the cards and so have removed the whole concept of the game, (I saw one girl biting the corners so to leave marks in certain places) that and the fact they used to shuffle them around!</span>
+</p>
+<p><span>I also played the occasional game of connect four. The most memorable being against Rebecca, who must only be about 3/4. We started as normal, she was red and I was black, but we only got a few pieces in when she decided she had won so tipped all of the pieces in her pile. The next game was then a mixture of her playing both red and black pieces. In one round all the pieces played were black and she still managed to win somehow!! She thought it was fantastic though and was grinning the whole time at her amazing winning streak. Not sure she'll have quite the same luck against one of the other children!</span>
+</p>
+<p><span>Tom's game of choice/ one he'll never want to play again was Monopoly. The children have an amazing grasp of money, however as they still refer to old and new currency here, being told you owe the banker 10000 can be interpreted as 10. Playing 'Game of Life' was also an interested experience we both had, neither of us even attempted to introduce stocks and share! Was pretty entertaining to hear Tom try and explain what a honeymoon was to a group of 8 year olds though!</span>
+</p>
+<p><span>Also during this week, the cook at BASICS, Aunty Vida took us to the local market. This required us to be up by 6.30 but was completely worth it. There was so much going on and the most bizarre things being sold next to each other, likewise there were rows of people selling the exact same thing. Tom and I attracted a fair bit of attention and strange looks, people talking to us in Ga or attempting to talk in English then laughing their heads of off the moment we responded. Managed to get lots of food here, mainly fruit and veg, but didn't taste any of it as we were given an unexpected week off so it all went off. We know where it is now so we'll be back, we've also realised we probably don't need to be up quite so early!!</span>
+</p>
+<p><span>Final day of the programme and it was performance time. Fortunately for me, spelling games aren't a spectating event, so I was able to sit back and enjoy the show. Was lovely to see all the other groups display what they'd been working on. There was singing, dancing, poetry, drama  and of course guitar! We got somewhat distracted by the mass of younger brothers and sisters who had come to BASIC's to see the show. They all wanted to wave and talk to us despite us trying to turn their attention back to the performances. One girl even turned her chair to face us with her back to the stage! Our favourite little kid kept us entertained by falling asleep on his chair, his head constantly falling and jolting back as he dozed in an out of slumber! We saw him a short while later, carrying his flip flops, and yawning as he sauntered back to his mother.</span>
+</p>
+<p><span>Love Jo and Tom</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="8" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>So this post is pretty overdue but we've been pretty busy! A little under a fortnight ago we spent the better part of a week travelling the far western coast of Ghana. It was slightly unexpected, in the sense that we left Accra with the intention of being away for 3 days and ended up spending about 8 days travelling around! Having only packed enough supplies for the 3 days we quickly ran out of the essentials... the main thing being insect repellent, and boy did we pay for it!</span>
+</p>
+<p><span>Fresh from the party at BASIC's on Thursday we jumped on our first night Tro tro to Takoradi. It was a fairly easy task to get to and on the tro but having not been on a night tro before, we we in no way prepared for the journey ahead! The daring over taking manoeuvres are somewhat more intense and unnerving when all you see are two (or sometimes one) headlight approaching you at speed! Luckily for us the whole experience was made &lt;em&gt;slightly&lt;/em&gt; more relaxing as our tro came pre fitted with mood lighting (check out the photo, it cracked me up no end!) and this feature was particularly useful at the several police roadblocks we passed through.</span>
+</p>
+<p><span>Despite not having booked any accommodation in Takaradi, the first hotel we stopped at had plenty of rooms available. We soon got the impression they don't get busy until the early hours of the morning which became even more apparent as we took our walk to our room, passing several of the women involved in such business arrangements! Never the less, after the journey there we were too tired to go looking elsewhere and due to a broken TV and fridge without a plug socket Jo managed to negotiate the price a bit lower (she gets scary when she's tired!)</span>
+</p>
+<p><span>In the morning we were quick to rise and as Takoradi was only a stepping stone on the journey to our beaches in the west, we headed to the local tro station. We needn't have rushed however, as we waited nearly two hours for our Tro to fill up, apparently people aren't that keen to leave the old oil hub of Takoradi, that or they really love the Hotels for their nightly entertainment!</span>
+</p>
+<p><span>Regardless, once we were under way, it was not long until the entertainment of our own began. You see, the roads to Beyin aren't much more than dirt tracks carved through the undergrowth and are quick to form dust clouds when one of the many plant trucks go past. We were lucky (or unlucky) enough to experience this several times when we had no choice but to put full trust in our drivers knowledge of the roads, as looking out the window was completely pointless! It really was like we'd driven into a giant orange marshmallow! He proved his devotion to us again when he came to our rescue at our destination by walking us to our guest house, even though this was in the opposite direction to the sign and we weren't 100% sure he knew where he was going! Anyway, he dropped us off at a lovely spot (bar) called the Step by Step where we were told to await our host. We weren't too concerned about being left as we'd called him earlier and he said there was plenty of space so decided to dig in. The women he left us with spoke no English and frequently left us to our own devices, being sat outside in the baking heat this quickly turned into getting a (unfortunately luke warm) beer and a spot of people watching. We were unsure of how long we needed to wait so eventually cracked out a pack of cards whilst watching another local woman clean, gut and scale an entire net of fish. It didn't look easy, not to mention that all the local wildlife seemed rather intent of getting a free meal. We did try to do our bit to help by scaring off the local chickens, they did seem however to have an unhealthy lack of fear of the rocks we threw at them. It even crossed my mind if we got hit one hard enough it would probably end up on our plate that evening, seeing as most the fish didn't stay long  in her bowl! Shortly after Steven showed up, upon seeing that we'd made ourselves comfortable he too grabbed a drink and began the tale of why he hadn't been around. It seemed that his spot was the social hub of the village as towards the evening a rather large crowd of locals (large being about 10 in the size of village we were in) turned up to catch up on the latest news. Although this was delivered on a battery powered radio strapped to the side of his spot at about 40º to the horizontal, they did manage to get pretty good signal to which the Chelsea game was blasted out of. We talked to one fella about his life in Kumasi and how he came back to Beyin to look after his mother. This is somewhat impressive as the trip from Kumasi probably takes him the best part of a day to complete! Steven turned back up a while later, he cooked us some Jollof rice (no idea on spelling) and a bit of fresh octopus and fish. A very well received meal after a long day. Post eating we shattered and asked him to take us to the room we'd booked. He disappeared for a few seconds and when returned, came bearing a strobe light which he could have just pulled of a wall for all we knew.</span>
+</p>
+<p><span>The room we stayed in was actually built on the beach. A raffia palm construction, it had four rooms to it with a shared toilet and shower. I'd guess at about 8 strides to the water from our front door which was fantastic for the price we paid. It was a tad moist though and dropped a bit cold at night but for the fly on the wall experience in the village it was a much better choice than the resort further up, if only for the time spent with Steven! The real point in coming to Beyin (apart from the amazing beach) was the village on stilts in the Amansuri wetlands. The tourist office is based in Beyin and by 7am the following morning we were in a canoe with our guide rowing our way to the lake. Again we'd hoped by opting for the morning session we'd see some wildlife but as with every other tourist attraction we do, a massive group of Ghanaians showed up and decided to sing all the way. But hey, it still looked awesome and I can't say I've ever rowed a canoe through a jungle before! Nzulzuo (the stilt village) is about 40-50 houses all centred around one wide walkway. We got about an hour to wander around it but in honesty you could do it in 5 minutes if all you were doing is walking from one side to the other. In our case however, you could stay all day, drinking in the surroundings! We saw most of the villagers engaging in day to day life, got a talk from the village chief on why they settled there (although this was spoken entirely in Twi so we understood zero, luckily after there was an A4 laminate with an English version on!) and trying not to fall between the gaps in the walkway. One thing we did make use of was the locals trade and how they make their money... distilling gin! One bottle of 80% gin made with mahogany was 3Ghc so 90 pence and it would have been rude not to! I was hoping to bring it home as gifts but when he poured it into some recycled juice bottles without any seal my guide warned we probably wouldn't get it past customs. There goes that 18th present for a certain duo! One more evening in Beyin and our time with Steven and the locals was up. Our next stop was Green Turtle, another resort down the coast but with a bit more luxury which by this point we were in need of. As I speak Jo is typing up that story so fingers crossed you'll get to hear it soon! Until then!</span>
+</p>
+<p><span>Love Tom &amp;amp; Jo x</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="9" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Although we loved Beyin and the lovely locals we met, we were keen to move on to Green Turtle Lodge and to a beach where everyone passing didn't come over for a chat.</span>
+</p>
+<p><span>Heading off early we had to get three different tro tros to get there, the final one not even getting us to our destination. Crammed into the smallest tro tro to date, and looking like the oldest in Ghana, we were thrown around along a dirt track. As we slowed we thought we'd finally got there, only to look out the window and see a massive lorry stuck in the mud with about twenty young locals trying to get it out. Not put off by this, our driver decided to go straight through the same ditch, and shockingly enough didn't make it!! Time for the mate to get out and push. No success. Eventually we all had to get out, luggage and all, in an attempt to lighten the load. There were times when I though it was going to make it, but knew they'd admitted defeat when the mate came over to ask for our money and told us to follow another passenger. Armed with her baby on her back, a bowl on her head, plus Tom carrying a bucket, the three of us headed off down the road. As we passed through village after village we had no idea what was being said. We can only assume our new-found friend was reliving the story of how she came to have two obrunis with her, to anybody who would listen as she grinned the entire time. Reaching her stop, and having done enough waving at children to last us a life time, we parted with our resort in sight. We had an amazing time at Green Turtle Lodge. I had been there before so was keen to show Tom Ghana's little piece of paradise. Although a little bit rough around the edges this time around and that it was cloudy the entire time, it didn't disappoint. It was set up by an English couple as a turtle conservation site, but fortunately as it's at a secluded beach, lined with palm trees, it's perfect for an eco-resort. We stayed in a lovely little mud hut, but spent most of our time sat on the benches by the bar area, which was made out of a fishing boat. It was here we met lots of other travellers/volunteers/workers each with their own story to tell, tried not to be swept under a riptide in the sea and played a ridiculous amount of card games. It was during one of these games on our first night that a member of staff came over to us to tell us a turtle was laying eggs just along the beach! Rushing along, we suddenly saw tracks in the sand where she'd pulled herself out, and was there digging a ditch in the sand just up the bank. We couldn't really see much as it was late, and even though it was full moon, it was too cloudy to get much light. Nevertheless, we saw her dig a hole, then there was a lot of pulsating as we assume she was laying the eggs. There were times when the red focus light on some people's cameras went off as well, which meant we were able to see her face in more detail and it was incredible to watch. Eventually she fell asleep and we too headed back. Heard the next morning that it took over two hours for her to go back to the sea. Although the food was really good at the lodge, our fishing village mentality on prices meant that on occasion we headed to the nearby village in search of food. We ate so well here on rice, noodles and doughnuts. Massively carb based, but when it costs so little it's hard not to embrace the local diet. However, shelter was not included in the price so when it poured with rain we had to make a mad dash for it and joined a man mending his fishing nets!</span>
+</p>
+<p><span>Having spent two days at Green Turtle we slowly moved on. Just so happened that the sun decided to come out whilst we were on the tro tro! Again the journey took the best part of the day and we arrived in the dark in the town Kusamsi of the Ashanti region, with no money and no accommodation booked. Fortunately, the first place we tried had a dorm available (which we had all to ourselves anyway) and wasn't far from an ATM. Plus the walk there meant we found our first supermarket. Am sure it really didn't need to take us that long to pick out water, juice, insect repellent and FanYogo, but as it was air-conditioned I think we were both dragging in out!! The FanYogo went down a treat. It's strawberry frozen yoghurt, and since first having it here we've seen it everywhere and given in many times. The insect repellent was also much-needed, as it was here I counted over 80 bites on my legs! Not fun. Probably an even worse experience for Tom as I kept counting them and taking photos!! Kumasi itself, is mainly known for its market, which is the largest in West Africa. It was here that Tom and I spent our first day, wandering past stall after stall selling absolutely everything. It is used as an everyday market so everybody is out buying their fish and vegetables etc. As an added plus for us, we didn't really get hassled. A few people wanted to wave and ask us where we were from, a few even dragged their screaming babies towards us just to scare them further, but for the most part I think they've realised that we're not very likely to buy groceries from them. We lasted in here for about four hours, armed with only fabric to show for it. We were completely exhausted after this experience that we spent the rest of the day embracing our inner tourist and visited the Cultural Centre. Here we watched how lots of local crafts are created, which was lovely, but in exchange the hassle was back and we suddenly became everyone's 'friend' as they tried to sell anything and everything to us!! Thursday was our second and final day. Partly because we were exhausted, but also because we realised we'd run out of malaria tablets! Time for a quick trip to the Ashanti palace, where Tom was over the moon to get an ebony Oware board (Ghanaian board game, which Tom will more than happily teach anyone who shows an interest).  On a more historical note, this is the site where the current Ashanti king lives, although he has moved into the house next door. Regardless, it was still extremely interesting to see where Ashanti kings have resided since the British arrived. Tired and ready for home, we boarded our tro tro for the most interesting and uncomfortable ride of our lives. Despite Kumasi and Accra both being major cities in Ghana, the road between them is still being built. In patches. Was ridiculous, we'd be on tarmac for a few minutes before the road would just completely disappear. We past countless vehicles that had come unstuck by this. Some of which were having to move their loads onto another van. The road would then be back and the whole cycle would be repeated. Think it was worse because it led you into a false sense of security every time we hit smooth road again. We were so glad to alight, and spent the rest of our time off from BASICs chilling out at our house.</span>
+</p>
+<p><span>We are slowly catching up with ourselves. Stay tuned!</span>
+</p>
+<p><span>Love Jo and Tom</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="10" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>So last weekend Jo and I headed to a beach just 25km from Accra, called Kokrobite. After our huge week-long excursion the previous week and a very busy time at BASIC's we felt in need of another beach and some relaxation! We'd done the age old trick of not booking anything until a few nights before and so we spent Friday with baited breath awaiting a phone call from a hotel who had said they would call us if they'd had a cancellation. Lucky for us at about 1pm the phone went! So less than 24 hours later, post tro and taxi ride, we got to Kokrobite.</span>
+</p>
+<p><span>&lt;dl class="wp-caption aligncenter"&gt;&lt;dt class="wp-caption-dt"&gt;&lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/09/cimg4867.jpg"&gt;&lt;img class="size-full wp-image-106" title="CIMG4867" src="http://greenteaandnoodles.files.wordpress.com/2012/09/cimg4867.jpg" alt="" width="448" height="336" /&gt;&lt;/a&gt;&lt;/dt&gt;&lt;dd class="wp-caption-dd"&gt;The beach and fishing boats&lt;/dd&gt;&lt;/dl&gt;The place is not a "Traditional quiet Ghanaian coastal village" but more of a "We know people like it here so lets build a load of resorts and late night bars village". We ended up staying at a lovely little set up called the Kokrobite Garden Restaurant which also did accommodation. The place is owned by an Italian family (which meant that the restaurant menu was spectacular!) Our room was a little bungalow (see above) set inside the grounds next to the freshly painted swimming pool. It came with a working, non bucket, shower and a mosquito net! Win! Unfortunately the pool was not ready but hopefully by the time we go again (which we probably will) it will be! We bumped into one of our friends at Big Milly's Backyard who we had met at Green Turtle the previous week. He introduced us to the people he knew and worked with so by the end of the evening there was quite a large crowd of us socialising. We had an amazing meal at the Garden Restaurant... pizza and pesto pasta &lt;strong&gt;YUM.&lt;/strong&gt; Big Milly's put on a live band as it started to get late who played weird reggae covers of old pop songs, Bryan Adams to name one I can remember! They were amusing enough and kept a beat well enough to dance to! It was muchos fun! Sunday was much more relaxed with fresh juice and salad for breakfast, with an Italian coffee and bruschetta for lunch. We lounged on the beach as the sun decided to show face today and played yet more Bananagrams. We got told by our friends we met that in a fortnight it was a girl called Harriet's birthday and they are planning on bringing party hats! I think we're tempted to go back!</span>
+</p>
+<p><span>Love Tom &amp;amp; Jo</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="11" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>First week of term and Tom and I were given the responsibility of KG. These are the children whose English isn't good enough to go to school yet!! Yes, I know, we are as confused as you are as to why we chosen. The rest of the staff were in training so it was a case of last resort, I guess! Regardless, we had 8 under our care on Monday, which dropped to 6 on Tuesday as two started school, and then to 5 on Friday as one kid was sacked for being too young (and driving Tom and I mad). They were a handful to say the least. Despite us coming up with lost of activities, their favourites still seemed to be; to kick and punch each other, run in different directions, talk in Ga, ignore us and beg to go to the toilet for the hundredth time. The one thing we did manage to teach them was 'pufferfish', and even that they are pronouncing as 'fufferfish' and repeat it all day everyday with hysterics. It was a this point that they were all crowded around Tom as he showed them flash cards, whilst one of the girls sat and plated his hair!! Made me realise their not that bad really!!</span>
+</p>
+<p><span>Duck, duck, goose also really made us laugh, as it was pronounced either duck, duck, 'gloose', or duck, duck, DUCK. Didn't last long as they shrieked so loudly we were probably disturbing training upstairs.</span>
+</p>
+<p><span>It has been massively rewarding though, and despite it taking time to get them to sit down and to put a pencil in their hand, seeing a scribbled out 'a' is a sign they're heading in the right direction. Their attention span is really short though, so the end of the alphabet does get a bit hazy, but at least we've got something to work on for next week!!</span>
+</p>
+<p><span>After they leave at 3pm, we then get the older children once they have finished school. They get a hot meal, help with their homework and then different activities. I've been working with class two, whose English is far better. They are also really keen to learn. I helped one child with her homework and then set her some more questions to check her understanding, and before I knew it I had five others pushing their books towards me to be given more too. One kid even asked me to set him extra to do at home!</span>
+</p>
+<p><span>Once they've closed at 6.30pm we then have another hour with the older children to help with their more difficult homework. On the first day I sat next to a girl doing her French homework and quickly got up and moved on to the next child!! I can't remember a thing from GCSE!! These kids are also really great. Most of the children I taught from before are still here and so are in this group. Once we're finished with homework, we tend to just sit and chat. Figure as it's in English it's still educational for them, right?!?!</span>
+</p>
+<p><span>Love Jo and Tom</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="12" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>After another week at BASIC's we decided to check out this Volta region, which everyone had been raving to us about. Not a whole load of years ago a massive dam was created just north of Accra, for the purpose of power generation and a large side effect of this was the creation of a huge lake. This lake now forms the divide between the Central and Ashanti regions and the Volta region in Ghana. We headed north to a town called Hohoe (kinda pronounced like Ahoy) as we'd heard it a good spot to plan and take day trips from. It turned out, we had been told correctly :)</span>
+</p>
+<p><span>On the Saturday when we arrived, after a far more comfortable tro tro ride than usual, we dropped off our stuff and left in search of the Wli falls. This particular waterfall is made up of two parts, the upper and lower, although such is the case that in the current rainy season the upper falls are too dangerous to visit. On a brighter note though, the lower falls were worth the long trek anyway. Although there is no official height for the falls, our guide-book placed the lower section as a drop of around 80m! The force of the spray coming out was intense and as there were no indications of safety barriers or anything, we all got in the drop pool and had a good splash around! &lt;dl id="attachment_148" class="wp-caption aligncenter" style="width:778px;"&gt;&lt;dt class="wp-caption-dt"&gt;&lt;/dt&gt;&lt;/dl&gt;&lt;dl class="wp-caption aligncenter"&gt;&lt;dt class="wp-caption-dt"&gt;&lt;strong&gt;&lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg4954.jpg"&gt;&lt;img class="size-full wp-image-131 " title="CIMG4954" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg4954.jpg" height="336" width="448" /&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/dt&gt;&lt;/dl&gt;&lt;dl class="wp-caption aligncenter" style="width:458px;"&gt;&lt;dd class="wp-caption-dd"&gt;Reflection of Waterfall in Sunglasses. So Cool&lt;/dd&gt;&lt;dd class="wp-caption-dd"&gt;&lt;/dd&gt;&lt;dt class="wp-caption-dt" style="line-height:18px;"&gt;&lt;a style="color:#ff4b33;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5016.jpg"&gt;&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5016.jpg" height="336" width="448" /&gt;&lt;/a&gt;&lt;/dt&gt;&lt;dd class="wp-caption-dd"&gt;Me with a wood-carver who made our mask!&lt;/dd&gt;&lt;/dl&gt;What was even more rewarding in some aspects though was the walk to the waterfalls. A 45 minute wonder though a rainforest crossing a total of 9 bridges. We took a guide on the way (who seemed to walk faster than humanely possible), but whilst we were there we paid him to leave such that we could enjoy the walk back! Although we saw no large mammals, the amount of insect wildlife was crazy. Butterflies as big as my fist would readily fly close by, sometimes landing on a nearby leaf, sometimes on me!</span>
+</p>
+<p><span>&lt;dl class="wp-caption aligncenter"&gt;&lt;dt class="wp-caption-dt"&gt;&lt;/dt&gt;&lt;dd class="wp-caption-dd"&gt; &lt;/dd&gt;&lt;/dl&gt;We spent the night at a hotel called the "Grand Hotel" which I personally think was a slightly over-rated name. They even went to the trouble of painting the phrase "I &amp;lt;3 Grand Hotel" all over the place. Egotistic one might think. Anyway, aside from the inch too short door which I frequently made contact with, the place was fine. We met a couple of Germans at the falls who it turned out were staying at the Grand with us and it made good company in the evening where they told us of their medical placement in Kumasi. One thing to take back from that conversation... don't get ill :D</span>
+</p>
+<p><span>On the Sunday we left Hohoe, again on a day trip to another nearby waterfall. This one was much more remote and less touristy, which was one of the reasons we decided to check it out. When we got there we met the chief of the village who we paid a fee, he offered to give us a guide but (stupidly) we thought of the tip we'd have to pay him and so attempted to find the falls on our own. What. A. Stupid. Idea.</span>
+</p>
+<p><span>An hour and a half later we got to the falls, after multiple trips up and down the same path, a surprise visit to a place devoted to silence and a chat to a lumberjack having a cigarette. It's apparently a walk that's doable in ten minutes. After all that however, it was amazing. Super amazing. It turned out we had the place all to ourselves as well. There were five stages in all, each stage falling into a pool before dropping into the next. We climbed up to the penultimate pool, which was truly idyllic, a slight overhang was covered by the waterfall into the pool, whilst the pool itself was surrounded by smooth rocks with a sandy bottom. All around the waterfalls and rocks was lush vegetation and not to mention the intense sunshine!</span>
+</p>
+<p><span>&lt;a style="color:#ff4b33;line-height:18px;font-weight:bold;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5029.jpg"&gt;&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5029.jpg" height="336" width="448" /&gt;&lt;/a&gt;</span>
+</p>
+<p><span>&lt;dl class="wp-caption aligncenter"&gt;A waterfall we had all to ourselves&lt;/dl&gt;&lt;a style="line-height:18px;text-align:center;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5041.jpg"&gt;&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5041.jpg" height="336" width="448" /&gt;&lt;/a&gt;</span>
+</p>
+<p><span>&lt;dl class="wp-caption aligncenter"&gt;Splish splash&lt;/dl&gt;&lt;span style="font-size:16px;line-height:24px;"&gt;We spent a few hours swimming in the waters before heading off to our next stop of the day. We planned to go to a place called Fesi, just outside of a town called Kpando (the K is silent). There we had heard about a cooperation of women potters who had chipped together to run a pottery shed. When we arrived we were welcomed in with open arms where we were able to watch the women work and gaze upon all there creations! What was truly awesome was how they used no machinery, not even wheels, and yet they had some perfectly round, perfectly formed pots and vases. Truly impressive stuff. We ended up grabbing a few souvenirs and ordering a few parts to be picked up in Accra later in our trip. &lt;/span&gt; &lt;span style="font-size:16px;line-height:24px;"&gt;The evening was spent eating and planning the return leg of our journey. We compared phone numbers with the Germans guide books as ours were out of date but even that didn't work too well. Even our transport plans for the next day didn't seem to fit together too well and in the end we just decided to give it a shot. We'd planned to go to a village called Amezdofe, the highest inhabited place in Ghana at around 800m above sea level. The only issue was that from the north there was a road on our map to get there, but all the locals we spoke to said otherwise... &lt;/span&gt;</span>
+</p>
+<p><span>&lt;a style="color:#ff4b33;line-height:18px;text-align:center;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5074.jpg"&gt;&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5074.jpg" height="336" width="448" /&gt;&lt;/a&gt;</span>
+</p>
+<p><span>Jo stood by some leaves on the walk up the mountain</span>
+</p>
+<p><span>&lt;span style="line-height:24px;"&gt;In the end it took a tro tro, a motorbike taxi, and an hour trek up the mountain to get there! It was a crazy journey but as we only had day bags, it wasn't too bad. Ironically when we finally got to the village we ended up paying to visit the summit which was only another 15 minutes or so walk! &lt;/span&gt;</span>
+</p>
+<p><span>&lt;a style="line-height:18px;text-align:center;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5153.jpg"&gt;&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5153.jpg" height="336" width="448" /&gt;&lt;/a&gt;</span>
+</p>
+<p><span>&lt;dl class="wp-caption aligncenter"&gt;At the summit of Mt GEMI&lt;/dl&gt;&lt;span style="font-size:16px;line-height:24px;"&gt;The best part by far however was our guesthouse. The Akofa guesthouse is run by a gentleman who was born in Ghana, lived in London for 20 years and then retired back out in Ghana. When he told us this it there was no need to ask why he had left London back for Ghana... all that was needed to was to look out off the terrace.&lt;/span&gt; The view was probably about 100 miles. From the east border of Togo we could all the way west to the other side of the lake volta. Rather than ramble on now about it, I'm just going to post a variety of the photos we took and hope they come close to what we saw. Other than that, you'll just have to go visit!</span>
+</p>
+<p><span>&lt;a style="line-height:18px;text-align:center;color:#ff4b33;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5221.jpg"&gt;&lt;img class="size-full wp-image-135" style="border-style:none;margin:5px;padding:0;" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5221.jpg" height="336" width="448" /&gt;&lt;/a&gt;</span>
+</p>
+<p><span>An amazing sunset!</span>
+</p>
+<p><span>&lt;dl class="wp-caption aligncenter"&gt;&lt;dt class="wp-caption-dt"&gt;&lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5222.jpg"&gt;&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5222.jpg" height="336" width="448" /&gt;&lt;/a&gt;&lt;/dt&gt;&lt;dd class="wp-caption-dd"&gt;Another amazing sunset!&lt;/dd&gt;&lt;/dl&gt;&lt;a style="color:#ff4b33;line-height:18px;font-size:16px;font-weight:bold;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5232.jpg"&gt;&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5232.jpg" height="336" width="448" /&gt;&lt;/a&gt;</span>
+</p>
+<p><span>&lt;dl class="wp-caption aligncenter"&gt;A visitor we had once we turned the outside light on&lt;/dl&gt;We ended our trip with some fresh palm wine and a casual tro trip back to Accra. I think this weekend visit has been the best one so far, what with the people we met, and the places we saw. It's a shame we only get to do each trip on a long weekend but I think we'll have to come revisit some of these places at some point. You should join us!</span>
+</p>
+<p><span>Love Tom and Jo</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="13" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Week 6 at BASICS began with Tom and I feeling very optimistic that it would be less stressful 5 days. Last week we were under the impression we were just filling in with KG whilst staff training took place, however as we walked in we learn their teacher was ill. Time to think on our feet yet again!</span>
+</p>
+<p><span>Our week with KG went reasonably well. There were of course times when we wanted to walk away, but then they'd do/say something to make us laugh and our sanity would be restored. Joe (another volunteer) had brought out kazoos, so music lessons took up a lot of the time. Their enthusiasm wavered at times, but their reaction at hearing themselves playing being played back to them was fantastic, that their was talk of having a little kazoo band! Besides having them write their alphabet over and over, we also played number bowling with them this week. Wish we had photos of this as they got so excited, plus some of their throws needed to be captured! With the older children this week, I had to admit defeat! I looked after class 1 on Monday on my own and they were making so much noise and ignoring me completely, that when another member of staff came over to tell them to be quiet, I had to put my hands up and beg for help. There was only 5 kids! For the rest of the week, when their teacher was back I hid with class 2, whose English is just that bit better to actually be able to communicate with.</span>
+</p>
+<p><span>Outside of BASICS this week we're had a few problems with our toilet flooding our courtyard every time it flushed (!), so we are now having to use the outside loo. We also went for fufu with Evans, a member of staff from BASICS who lives with us, but was leaving to do his national service in Kumasi. Tom was so excited about trying fufu, as most Ghanians refer to it as their favourite meal. Having now tried it, we do not share these thoughts. It's designed to be swallowed whole, which feels wrong, especially as it's the texture of play-dough! Didn't help that to go with it we were given goat offal wrapped in a piece of skin! In other news, we finally saw what was behind one of the doors at our place. A music studio! BASICS has come on along way! We also took fabric to the seamstress to get clothes made and went to Mercy and Roger's, who I stayed with when I was here before. Was so lovely to see them again, and also see my room!!!</span>
+</p>
+<p><span>Love Jo and Tom</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="14" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>This week in Accra we had the boring, but necessary task, of visiting immigration about our visas. Here we were told that despite our stamp in our passports saying 60 days and our flights booked for 63 days, there was a couple of days leniency so we were fine. Turns out the guy at the airport immigration when we were trying to leave 2 weeks later had a different opinion!! But for those of you that have seen us since we've been back, you know it all turned out fine and we made it in one piece!</span>
+</p>
+<p><span>With KG this week we repeated the alphabet over and over and over again! It seemed to be going in, but they, like us, were desperate for something else to do. So of course we had to oblige. Managed to fashion some music shakers out of beans and bottles. Made a nice change from kazoos, but in the end we were making so much noise we were asked to go to the media room. Here this led onto musical statues, with Joe playing the banjo. Out of the five children, I had two dancing with me whilst the others watched on in hysterics every time we froze!  One thing I've learnt from that day is banjo music is not easy to dance to!</span>
+</p>
+<p><span>The following day, our simple mask idea spiraled into an all afternoon activity with bits of card, paper and crayon everywhere! After a slightly rocking start trying to explain what we were doing and not have them all copy each other, they embraced their creative sides. The final products were fantastic. The girls had bits of hair made out of paper, Rebecca's eyes were very screwif and Jeffery had a mustache and hair all around his face! Even Tom couldn't resist and made his own! The next day the first thing they said to us was 'masks, masks!' Desperate to drag this activity out just a little bit longer, we had them creep upstairs in their masks to scare Auntie Pat. Was the cutest thing ever, watching them tip toe up the stairs, then outside her office all look at me for the nod to rush in and roar at her. Thankfully Auntie Pat played along that she was terrified, making them all very pleased with themselves! Poor little Jeffery loved his mask so much that he refused to take it off walking down the stairs, so nearly fell down them!</span>
+</p>
+<p><span>With the older children this week, I was kept busy with activities such as drawing the garden of Eden and teaching spelling words ready for a test on Thursday. Turns out even helping them with their corrections is difficult, as they'd cross out a correct word, or insert words on the wrong line, simple instructions are completely lost when you don't share a language! Plus for their sentences to show the use of the word, it was hard work trying to persuade them to use something other than 'I can'. I realise it works for a lot of the words such as 'I can jump', but 'I can table' isn't quite right!</span>
+</p>
+<p><span>Love Jo and Tom</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="15" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>We do not have the best of luck when it comes to beach weekends away and the weather. As we were leaving our house, there was the biggest gust of wind ever, followed by the heavens opening! Within minutes our courtyard was transformed into a river. Not put off, we legged it for our tro tro, where we we huddle under a shed whilst we waited. Once on, it didn't get much better, as the only seats left were right at the front next to the mate who was hanging out of the open window!</span>
+</p>
+<p><span>Finally reaching Kokrobite beach, with our fingers-crossed that the weather would be completely different, we were shown to the same bungalow that we had before. Just as we remembered, so it was perfect. Now that the rain had passed, we were optimistic that the breeze and the clouds would soon follow. Sitting down on the beach, this did not become a reality. Not exactly cold, but still certainly not sun bathing weather. To add to this, Tom had finished his book, so within his boredom made friends with the dog that had followed us all the way to the beach. Unfortunately he then invited all his little flea invested friends to join us. Slightly 'chilly' by this point, we moved to the wooden terrace/platform thing that looks over the beach, and played games until the rest of the mob joined us. Mainly the group we met last time we were there, plus a few extras, we ate amazing pizza, drank Ghanaian beer and danced into the night. Two of the extras that joined us for that weekend were Pat and Allotey from BASICs. After trying to persuade them for ages, we finally won and they took a well deserved and a much needed break. We had a fantastic night with them and all the others, although a game of highest card buys the drinks with James got a little bit out of hand!</span>
+</p>
+<p><span>The morning after the night before, and what better way to start than with a full English breakfast...well close enough. Frankfurters instead of sausages and no bacon, but we'll forgive them for this. Was really good. Plus as an extra bonus the sun was out! Cue a day laying on the beach! Was lovely and walking along the beach as the sun was setting was even more spectacular. Love Jo and Tom</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="16" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>After another week at BASIC's we decided to check out this Volta region, which everyone had been raving to us about. Not a whole load of years ago a massive dam was created just north of Accra, for the purpose of power generation and a large side effect of this was the creation of a huge lake. This lake now forms the divide between the Central and Ashanti regions and the Volta region in Ghana. We headed north to a town called Hohoe (kinda pronounced like Ahoy) as we'd heard it a good spot to plan and take day trips from. It turned out, we had been told correctly :)</span>
+</p>
+<p><span>On the Saturday when we arrived, after a far more comfortable tro tro ride than usual, we dropped off our stuff and left in search of the Wli falls. This particular waterfall is made up of two parts, the upper and lower, although such is the case that in the current rainy season the upper falls are too dangerous to visit. On a brighter note though, the lower falls were worth the long trek anyway. Although there is no official height for the falls, our guide-book placed the lower section as a drop of around 80m! The force of the spray coming out was intense and as there were no indications of safety barriers or anything, we all got in the drop pool and had a good splash around!</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg4950.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-medium wp-image-148" title="CIMG4950" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg4950.jpg?w=225" height="336" width="225" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;Us at Wli falls&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg4954.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-full wp-image-131  aligncenter" title="CIMG4954" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg4954.jpg" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;Reflection of Waterfall in Sunglasses. So Cool&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a style="color:#ff4b33;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5016.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5016.jpg" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;Me with a wood-carver who made our mask!&lt;/div&gt;</span>
+</p>
+<p><span>What was even more rewarding in some aspects though was the walk to the waterfalls. A 45 minute wonder though a rainforest crossing a total of 9 bridges. We took a guide on the way (who seemed to walk faster than humanely possible), but whilst we were there we paid him to leave such that we could enjoy the walk back! Although we saw no large mammals, the amount of insect wildlife was crazy. Butterflies as big as my fist would readily fly close by, sometimes landing on a nearby leaf, sometimes on me!</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg49931.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-medium wp-image-150" title="CIMG4993" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg49931.jpg?w=300" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;A butterfly on my toes&lt;/div&gt;</span>
+</p>
+<p><span>We spent the night at a hotel called the "Grand Hotel" which I personally think was a slightly over-rated name. They even went to the trouble of painting the phrase "I &amp;lt;3 Grand Hotel" all over the place. Egotistic one might think. Anyway, aside from the inch too short door which I frequently made contact with, the place was fine. We met a couple of Germans at the falls who it turned out were staying at the Grand with us and it made good company in the evening where they told us of their medical placement in Kumasi. One thing to take back from that conversation... don't get ill :D</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a style="color:#ff4b33;line-height:18px;font-weight:bold;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5029.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5029.jpg" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;A waterfall we had all to ourselves&lt;/div&gt;</span>
+</p>
+<p><span>On the Sunday we left Hohoe, again on a day trip to another nearby waterfall. This one was much more remote and less touristy, which was one of the reasons we decided to check it out. When we got there we met the chief of the village who we paid a fee, he offered to give us a guide but (stupidly) we thought of the tip we'd have to pay him and so attempted to find the falls on our own. What. A. Stupid. Idea.</span>
+</p>
+<p><span>An hour and a half later we got to the falls, after multiple trips up and down the same path, a surprise visit to a place devoted to silence and a chat to a lumberjack having a cigarette. It's apparently a walk that's doable in ten minutes. After all that however, it was amazing. Super amazing. It turned out we had the place all to ourselves as well. There were five stages in all, each stage falling into a pool before dropping into the next. We climbed up to the penultimate pool, which was truly idyllic, a slight overhang was covered by the waterfall into the pool, whilst the pool itself was surrounded by smooth rocks with a sandy bottom. All around the waterfalls and rocks was lush vegetation and not to mention the intense sunshine!</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a style="line-height:18px;text-align:center;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5041.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5041.jpg" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;Splish splash&lt;/div&gt;</span>
+</p>
+<p><span>We spent a few hours swimming in the waters before heading off to our next stop of the day. We planned to go to a place called Fesi, just outside of a town called Kpando (the K is silent). There we had heard about a cooperation of women potters who had chipped together to run a pottery shed. When we arrived we were welcomed in with open arms where we were able to watch the women work and gaze upon all there creations! What was truly awesome was how they used no machinery, not even wheels, and yet they had some perfectly round, perfectly formed pots and vases. Truly impressive stuff. We ended up grabbing a few souvenirs and ordering a few parts to be picked up in Accra later in our trip.</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5059.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-medium wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5059.jpg?w=300" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;A women at work in the pottery shed&lt;/div&gt;</span>
+</p>
+<p><span>The evening was spent eating and planning the return leg of our journey. We compared phone numbers with the Germans guide books as ours were out of date but even that didn't work too well. Even our transport plans for the next day didn't seem to fit together too well and in the end we just decided to give it a shot. We'd planned to go to a village called Amezdofe, the highest inhabited place in Ghana at around 800m above sea level. The only issue was that from the north there was a road on our map to get there, but all the locals we spoke to said otherwise...</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a style="color:#ff4b33;line-height:18px;text-align:center;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5074.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5074.jpg" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;Jo stood by some leaves on the walk up the mountain&lt;/div&gt;</span>
+</p>
+<p><span>In the end it took a tro tro, a motorbike taxi, and an hour trek up the mountain to get there! It was a crazy journey but as we only had day bags, it wasn't too bad. Ironically when we finally got to the village we ended up paying to visit the summit which was only another 15 minutes or so walk!</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a style="line-height:18px;text-align:center;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5153.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5153.jpg" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;At the summit of Mt GEMI&lt;/div&gt;</span>
+</p>
+<p><span>The best part by far however was our guesthouse. The Akofa guesthouse is run by a gentleman who was born in Ghana, lived in London for 20 years and then retired back out in Ghana. When he told us this it there was no need to ask why he had left London back for Ghana... all that was needed to was to look out off the terrace.</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5179.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-medium wp-image-151" title="CIMG5179" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5179.jpg?w=300" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;View from our guesthouse&lt;/div&gt;</span>
+</p>
+<p><span>The view was probably about 100 miles. From the east border of Togo we could all the way west to the other side of the lake volta. Rather than ramble on now about it, I'm just going to post a variety of the photos we took and hope they come close to what we saw. Other than that, you'll just have to go visit!</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a style="line-height:18px;text-align:center;color:#ff4b33;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5221.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-full wp-image-135" style="border-style:none;margin:5px;padding:0;" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5221.jpg" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;An amazing sunset!&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5222.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5222.jpg" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;Another amazing sunset!&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocontain"&gt;&lt;a style="color:#ff4b33;line-height:18px;font-size:16px;font-weight:bold;" href="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5232.jpg"&gt;</span>
+</p>
+<p><span>&lt;img class="size-full wp-image-135" title="CIMG5059" alt="" src="http://greenteaandnoodles.files.wordpress.com/2012/10/cimg5232.jpg" height="336" width="448" /&gt;</span>
+</p>
+<p><span>&lt;/a&gt;&lt;/div&gt;</span>
+</p>
+<p><span>&lt;div class="photocaption"&gt;A visitor we had once we turned the outside light on&lt;/div&gt;</span>
+</p>
+<p><span>We ended our trip with some fresh palm wine and a casual tro trip back to Accra. I think this weekend visit has been the best one so far, what with the people we met, and the places we saw. It's a shame we only get to do each trip on a long weekend but I think we'll have to come revisit some of these places at some point. You should join us!</span>
+</p>
+<p><span>Love Tom and Jo</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="17" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Time got the better of us whilst we were away, and I don't think we were ever up to date with our blogs! We did mean to catch up in the 7 weeks that we were home, but that didn't happen either. Now we are away again, so it looks like the final two weeks of Ghana will have to be put on hold even longer until we're back and have time to look through our journals and write something actually worth reading.</span>
+</p>
+<p><span>In the meantime we are going to do our best to keep up to date for this trip! Otherwise a year's worth of blogs to write when we get back will take forever/never happen!!</span>
+</p>
+<p><span>Love Jo and Tom xx</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="18" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Hellooooooo people!</span>
+</p>
+<p><span>A little over a week ago we left on a 17 hour plane journey for the far East, and since getting here we've been non-stop exploring our new surroundings. Luckily for us, we've had Linh, our resident friend and translator, to ease us into the Vietnamese ways! The first day was very short, seeing as we landed at 10pm and mainly consisted of getting through customs, sifting out luggage out of the THOUSANDS of massive boxes going around the conveyor belt, and tracking down our hostel in the Old Quarter. We were reminded of a past time in Ghana whilst looking out the car windows at the sheer talent of people driving around. I think they operate on a similar system of if you ensure you don't crash into anyone in front of you, no one will crash into you from behind. Although the logic is there, it's a tad hair-raising when motorbikes and buses just full on pull out in front of you at junctions (which by the way have no right of way system, you just "filter"). Day two saw us meet some of Linh's Vietnamese friends. We ate at a nice Korean restaurant on the edge of town. The Vietnamese, and Korean for that matter, way of eating is based heavily on sharing. You order lots of dishes for the table and pick bits from each to eat in your small bowl in front of you. As far as trying to experience as many different dishes goes it's actually fantastic for a backpacker. The same system doesn't apply to your normal meals in roadside eateries though, as they all only specialize in one type of dish, and only serve that. In those cases, you each simply have your own. We've definitely started to discover what we do and don't like to eat. The majority of dishes fall into the 'rice', 'noodle' or 'rice paper wrap' categories (some falling into two or even three such as 'pancake with rice noodles which you then wrap up') and its only been outside of these which we've discovered area's we'd prefer not to eat. Earlier in the week we went to a specialist restaurant which served snake and although tasting pretty good, there ain't a great deal of meat on them. We also tried frogs legs in a fantastic restaurant which operates in a sort of Vietnamese response to the spice quarter in Leeds. Rather than sit around a square kitchen in the middle, the courtyard of tables are surrounded by stalls which specialise in different dishes. Its table service as normal, but each stall makes the relevant dish and they all get delivered to you. It meant we had a MASSIVE selection of food and every dish is made perfectly! Yum. A lot of our time has been spent walking around Hanoi and discovering all the little nooks and crannies of the Old Quarter. Our hostel is very close to Hoan Kiem Lake which is central to most attractions in the city. There's a Pagoda on an island in the middle of the lake, and plenty of 7th story rooftop cafes offering fantastic views whilst keeping drink prices at around a quid for a coffee. We've also visited a few museums, Vietnamese Ethnology, Fine Art, Ho Chi Min's Mausoleum to name a few. &lt;p style="text-align:left;"&gt;One particularly exciting show we've seen was a Water Puppet performance. This is a traditional way of performing with puppets in which the puppeteers stand waist deep in a pool behind a screen. They then control the puppets with long rods beneath the screen which are hidden by the water, giving the impression the puppets are acting by themselves. It originates from when the paddy fields would flood and people had to entertain themselves. Combined with the great music, smoke and lighting effects, it was a really great sight to see. If you search Water Puppets, Hanoi on Youtube you'll get a taster of what we saw!&lt;/p&gt; Another activity we were keen to try early on was a massage at one of the many infamous massage parlours  The three of us only opted for a foot massage however what I didn't realise is that they massage all of you anyway whilst your feet are soaking! Jo joked whilst facing the other way that at least she wasn't walking on me, then to my surprise a few moments later, up she jumped! We now plan to head down the coast by train, stopping at all the major 'must see' places. It means we're gonna have either a quiet relaxing Christmas in the town of Hoi an, lots of narrow cobbled streets, small cafes and breath taking landscape... or a rather more upbeat Christmas in the party town of Nha Trang, white sand beaches and plenty of bars! Essentially though, the train times will make the choice for us! Ultimately we aim to be back in Hanoi for lunar new year which is around February 10th to spend it with Linh's family. Her Grandma, who speaks zero English yet constantly nattered to us in Vietnamese when we went for lunch the other day,  apparently wants us to try her traditional cake they eat on new years. Not sure if we're allowed to say no! Anyway, it's currently midday on Thursday and we've got a 13 hour overnight train journey to Hue (pronounced Hway) this evening and to save ourselves about 6 quid we're doing on a seat and not a bed. I. cannot. wait....</span>
+</p>
+<p><span>Stay classy San Diago.</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="19" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>After our 13 hour train journey, which actually wasn't that bad (although ask Tom and you may get a different answer) we arrived in Hue. Slightly out of the city, we then had to walk along the river from the station to get to affordable accommodation. Only problem was that now that we have moved further south, it is a lot hotter here, making our bags feel a lot heavier! Aside from that and walking around exploring whilst a little bit sleep deprived, we didn't really achieve much on our first day, but instantly enjoyed the change of pace from Hanoi. We made up for it over the next few days. Hue has a lot of old buildings and is rich in history. It even has old walls guarding the city, leading to Tom and I renaming it the York of Vietnam. We walked around the Citadal and Imperial Enclosure for hours, admiring all the old temples and palaces, which have been restored after years of war to their former glory. It is a massive site though, so there is still a lot of work to be done, but likewise we enjoyed wandering around all the ruins as well. At one temple the views were quite different. Lots of bald men, dressed as monks with fake beards glued to their faces, sitting around smoking! Had it not been for the large camera crew and vans full of equipment, I think we would still be wondering now what was going on. Later that evening we bumped into all the crew at a bar celebrating their last day of filming. The main guy was from Leeds, who explained that it was for a Czech bank advert, with a weird story line about following a long beard to Vietnam where your money will be safe! Sounds very random, so will be sure to look it up on Youtube in a few months!</span>
+</p>
+<p><span>Was a really good night out. Longer than we'd planned though, as the owner and staff of our guesthouse also showed up there too. With the key! Had no choice but to dance to gangnam style until they were ready to head back and let us in! For our last day in Hue, we rented bikes and finally took to the crazy Vietnamese roads. Fortunately, they are a lot quieter than in Hanoi, so we didn't have any problems. Was great to get out of the city and see some more of the spectacular scenery Vietnam has to offer. It also made for a cheap and easy way to visit all the different emperor's tombs scattered around. It's clear to see how much the Vietnamese value their ancestors, based upon the measures they have gone to in order to create amazing resting places for them. They are also designated spaces for people to go to them seeking advice or good fortune. The final one we visited was very different from all the others, set into the mountain. It looked very gothic from the outside, so we were surprised when the main hall was filled with colourful mosaic and a massive bronze statue of the man himself. Was a fantastic day, although we won't be in any rush to see any more tombs/temples any time soon. Nor will we be opting for bikes until our bums have recovered from last time! Next mode of transport: back on the train. This time is was a far shorter route, plus more picturesque. In Hue everyone had been trying to sell us a motorbike tour of this route, selling it as, 'It's the one from Top Gear!' But without going on the steep mountain road, or paying a small fortune, we still got some incredible views whilst cutting through tunnels in the mountains. Also met the people we would come to stay with in Da Nang on the train, and taxi shared to the most strange little guesthouse I have ever come across. The owner Hoa completely makes the place. So much so that there are people here who have stayed for a month, and one guy who came here a year ago and is now back for more! Weather hasn't been great at our first beach stop, but the people more than make up for it. Hopefully once the clouds part we'll be able to head up to the marble mountains and get the view we came this way for! Lots of love</span>
+</p>
+<p><span>Jo and Tom xxx PS Since writing the above it has been glorious sunshine and we have spent most of our time laying on the beach!!</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="20" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Ho ho ho Hoi An! Christmas this year was spent in the joyus town that is Hoi An (Incase you didn't get the joke!)</span>
+</p>
+<p><span>Our very nice and WARM christmas was spent lounging by the riverside (in our santa hats), cruising down the river (in our santa hats) and taking part in a gourmet cooking course at the Red Bridge cooking school in their outdoor kitchen terrace.... (in our santa hats!)</span>
+</p>
+<p><span>Rather than bore you with the details, here are lots of photos of us on our Vietnamese Christmas Day :D &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;</span>
+</p>
+<p><span>That's all folks, hope you like the photos and a very Merry Christmas to you all!</span>
+</p>
+<p><span>Lotsa love, Tom &amp;amp; Jo</span>
+</p>
+<p><span>xxxx</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="21" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Hey hey folks!</span>
+</p>
+<p><span>Although Christmas in Hoi An was awesome, it was soon time to move on... We used the bus tickets we'd been given by the Aussie boys in Da Nang and took a wonderful night bus to the beach town of Nha Trang! All 13 hours of the journey was spent in the wonderful comfort of my bus seat/bed, what with its 30cm width and 'not really long enough for my legs' length, oh and the slightly chambered ceiling which had SO much head room.... But hey, at least there was aircon! We rocked into Nha Trang at around 6.30am and due to the impossibleness of sleeping on the bus me and the guy next to me (who from now on I will refer to as "Malia Man" as he owned a bar in Malia and we never exchanged names) talked for about 12 hours straight. It turned out he and his girlfriend had been travelling South to North Vietnam, but decided it was far too cold and so had turned around to go back to Nha Trang. This was great as we got tons of info on the best do's and dont's in the city. The best "do" was the Indian restaurant that did a 3 course set menu and drink for 120,000d (4 quid) and it was SO good. In fact we ate there twice! We spent around 6 nights in Nha Trang, a few days relaxing on the beach seeing as it was about 27 degrees all the time, one day at the theme park VinPearl Land (which I will come back to as it was SO GOOD), New Years Eve in Cafe's and watching The Hobbit at the cinema and New Years Day at the Thermal Mud and Hot Springs Spa. Man its such a hard life! I'm pretty sure we both agree that one of the best days was at VinPearl Land. If you could imagine a really bad South East Asian knock-off of Disney Land that's full of Russians on a Benidorm-esk type holiday, you're pretty close! The park was split into two, the Water Park and the Theme Park, although it only really took a full day to do both. The park, being mainly aimed at a younger audience had very basic rides such as Carousel's and swinging Pirate Ships, there were two rollercoasters, but on one I thought I was going to hit my head on the overhead spars so we only rode once! The second, the Alpine Coaster was amazing, the point essentially being that you get towed all the way to the top of the mountain on the island and, oh yeh I forgot to mention, VinPearl is on its own private island!!! You need a cable car to get to it from the mainland! But anyway, once at the top of the mountain, the track just winds its way down with loads of drops, sharp turns and blind corners. The catch? You control the speed. Yup. The person in the back (me) has a brake lever and whenever the person in the front (Jo) see's the "Brake NOW" signs on the side of the track the person in the back (me) pulls reaaalllly hard on the brake so that we all stay alive on the track :) I'm not even joking. But it was the MOST fun rollercoaster I've been on and the views were spectacular. Being at night, the track was all lit up and you could see the resorts on the mainland with the huge hotels and all their lights. Anyway, enough about VinPearl. The day after was NYE and in the evening we met up with a few friends we'd made in various hostels and cafes in previous days. We played a serious amount of pool, and then as we were outside the bar chatting a group of dragons rocked up and started performing! It was crazy, they were your typical fake horse set up, guy at the front and the back, but they did some mad tricks such as climbing onto a table and doing a backflip off! They were really impressive but once that show was over it was nearly midnight. We'd heard of a bar called The Sailing Club hosting a countdown party on the beach with a stage and band etc, so we heading down. But when we got there it was both sold out and crazy expensive. So we did the natural cheap thing to do, stood on the beach "next to" the ropes stopping people getting in and watched the whole performance for free! Rather than pay upwards of 60/70,000d for a drink we bought beer from a Vietnamese lady with a cool box on the beach for about 15,000d and splashed around in the sea until it was 2013! Loads of people had the same idea as us and it was a really great atmosphere. Some people went full on swimming but having stuff in our pockets we thought against it! As I mentioned earlier we spent NYD at the Thermal Mud and Hot Springs Spa. I don't think I've ever been so relaxed! Its set in the side of a huge mountain/big hill so each tub you sit in has some great views. Its pretty weird stuff, I think it's closer to water than mud in viscosity but its grainy like mud so feels pretty nice. And it was really warm too like a jacuzzi! Once our time was up in Nha Trang we planned to move further south to Ho Chi Min City (formerly called Saigon). We're there now but it took another 12 hour bus journey, this time during the day so sleeping wasn't an option! We're planning on moving to explore the Mekong Delta next, which is made up of loads of smaller towns on islands within the maze of rivers and swamps. Should be a ton of fun! Xin Ciao!</span>
+</p>
+<p><span>Tom &amp;amp; Jo xxx</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="22" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Was a flying visit to this crazy busy, southern city. But I think we both enjoyed our time there, and our budget enjoyed the fact we didn't stay too long! Day one was a busy rush around in the scorching heat to the must sees and museums. Although as everywhere seems to shut for lunch, there was plenty of time to stop off a little cafes along the way. After a hectic day, we began searching for food and hydration, in what we have now realised was probably the fanciest part of town. Gucci should have been a sign that we should turn around! The prices there were still ridiculously cheap converting back to sterling, but since we're now so used to beer costing 30p and food about £1, what they wanted was insane. Back to the backpacker area for us, for beer and food at the side of the road. At one point the place got so packed, we were actually in the road! Day two was a far more restful, exploring the market and seeing the places we'd failed to see the day before. We also took this time to plan our onward travel, which was essentially look at the map of the Mekong Delta and pick somewhere. Job done. Time to rejoin our new found friends from the bus for a night back on the side of the road. Love Jo and Tom xx</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="23" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Once we'd left the antics of Ho Chi Minh city we embarked on a somewhat faster paced, 10 days or so, self made tour of the Mekong. The Mekong delta pretty much makes up all of Vietnam south of Ho Chi Minh and is a massive area of land all broken up with jungle and rivers. A lot of this land has been reclaimed for rice farming due to the quality of the soil, but there are loads of small scale towns dotted around the swampy landscape to explore! In the past, this meant loads of ferry crossings and although this is still the case the further out you explore, most of the main towns are connected via big bridges which speeds things up. We began with a bus to a town just on the cusp of the delta called Ben Tre. A pretty sleepy town in reality so we only used it as a transfer for a night before we moved on. Perched on a river bank (as most towns out here are) we explored the markets and tried a few local dishes before spending the evening in various cafe's. Places out here do a mean ice coffee and Jo is pretty addicted to the iced lemon juices! We had some pretty tasty spring rolls near the market for tea from a woman who insisted on teaching us how to "mix" our noodles. Aside from that it was just nice to sit by the river and watch the boats sail past. It was in Ben Tre that my rucksack got slightly heavier as whilst wandering the town we discovered a local music shop! There we bought our new travelling companion, Mickey the Mandolin! Pretty sure that Jo is getting fed up with me playing the same ol' songs on it, but hopefully I'll learn some new ones soon and she can stop pulling her hair out! We only stopped one night in Ben Tre, in the morning we rose early and left for a town called Vinh Long. It was here where we had heard you could see floating markets and experience a homestay with a local family from the delta. Both of these turned out to be true and it wasn't long until we'd booked ourselves on an early morning trip to the markets. And by early, we mean early... The alarm went off at 5.30am and we left the hotel at 6am for the boat! Although crazy early, the sunrise on the river was fantastic! As per usual, Jo took about a million photographs so I'll probably just make a flicker book or .gif image rather than upload them all! Needless to say, it was amazing. We took our tour of all the market vendors floating around. Each "seller" has a huge pole on their boat on which they hang the goods they sell. In this way all the "buyers" need only to look around at all the poles to know where to go! It's a pretty neat idea although some of the stuff on the poles looked unchanged for a while and not in too good condition! I'm thinking if Asda hung its veg outside their doors til' it went brown they wouldn't sell too much either! The homestay was also a great experience. We got dropped off from the boat tour on the island where our house was. When I say island, the majority of the land in the delta is one island or another all separated by rivers so it's not an island in the sense, isolated out at sea! We rocked up and straight away started to enjoy the peacefulness of the place. Road noise in Vietnam is massive due to their love of the horn but this island was too small for big roads so was very quiet! They had hammocks all over the place and I pretty much chilled out and read my book for ages. Dinner was freshly caught fish wrapped up into spring rolls too which was superb YUM YUM. The only real downside to the homestay experience was that although, yes, we were staying with a real Mekong family, that family had built a massive compound of maybe 15 bedrooms and ran the place similar to a laid back hotel. I guess in essence a better description for the tour would have been "stay with a real Mekong family... and a load of other guys!"</span>
+</p>
+<p><span>To be continued.....</span>
+</p>
+<p><span>Tom &amp;amp; Jo xx</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="24" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Fresh from our homestay, we boarded a ferry and then a bus to make it to Can Tho. This the most visited part of the Mekong, so full of tourists on tours. We took advantage of the fact we had all the time in the world, and sat in a cafe watching the world go by, trying to hide from the little old lady sitting outside that I was drawing her! We ended the day with pizza, fajitas and nachos, except that's not quite what they were. Pizza was fine, but the fajitas and nachos came out looking exactly the same, neither quite what we were expecting. More like stir fried veg with 8 nacho shaped biscuits around the outside. When we asked for sour cream as on the menu, they brought us yoghurt!! Ignoring what we thought we'd ordered, it was actually pretty good! We didn't stay here long before we were back on a bus. Of course, despite the fact that taxis are very cheap out here, we walked to the station. If I hear Tom say "I don't think it's that far, we can walk" one more time, I may strangle him!! Once at Soc Trang, no one could understand that we wanted to rent bikes, so yet more walking to the two pagodas. Was completely worth it though. The first was a bit random, and was filled with hundreds of clay items, all build by one man. The second was more appealing due to the surrounding forest's current inhabitants; hundreds of fruit bats. When we first arrived it was still light so saw them all hanging upside down in the trees asleep. But as night fell they all began to stir and swoop around us. Was pretty impressive, although the only problem was that within the trees we couldn't always see what exactly was close by us until it shot past our faces!! Best view was when we began to leave and saw them swooping around the pagoda with the night sky as a backdrop. unfortunately the photos didn't come out very well, but there are lots of videos to show when we get back! Our final stop in the Mekong was Cau Doc, which most people only pass through on their way to Cambodia. Hence spoken English was sparse and the translation part of our guide-book got used a lot. Got a great view of the city and the surrounding rice fields from Sam (crab) Mountain, which we climbed on day one. Was very good to be away from the noise of the motorbike horns and taxi drivers asking us where we are going, even if it was a very steep climb. The way down was a lot easier and quicker, but that may have been due to the ice cream! Back at the base, a sign that had caught Tom's attention on the way in, demanded another look. Local beer in a tank. The sign said 7,000 dong, but what we weren't expecting was for that to be per litre. That's 21p, and having just climbed a mountain and dehydrated, it's also a lot more than we bargained for! Locals thought it was hilarious as they sat with us, or stared at us as they drove past. For dinner, we continued to embraced being  'local' by sampling random street food. Not all successful, so we ended up eating spring rolls-yummy and reliable! Next morning, and it was a very early start for a boat tour. Cau Doc is known for its large population of people living in stilt houses and floating houses. Best way to see them was on the river and likewise to see the floating market. Much better than the other floating market we went to, this had far more people and a lot more small boats who were genuinely buying their fresh produce for the day, rather than mass trading. &lt;span style="line-height:24px;"&gt;We were also able to go onto a floating house and see the fish that live beneath them. Not just accommodation, the floating houses also act as their income. There are large nets under each one, each with thousands of fish in it. The families make fish food, feed them, then when they weigh 1kg they catch them to sell at the market. We witnessed them being fed, and they went crazy!&lt;/span&gt; The last stop on our tour was to a minority village just upstream. On stilts also, they showed the markings of the different water levels over the years. In 2010 China built a dam, which is also on the same river, leading to record flooding in 2011. As a community that lives off of the water, this looks to be a reoccurring problem. Well done China!! A whirlwind tour of the Mekong, but we feel like we've seen a fair chunk of the place. Have seen floating houses, markets and crossed what felt like a million bridges. Time to jump on a Karaoke bus back to Ho Chi Minh City for a couple of nights transit, then head back north.</span>
+</p>
+<p><span>Love Jo and Tom xx</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="25" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>Once we'd departed from the Mekong we figured we needed some beach time (it's a hard life, I know!) and we had our sights set on a little coastal town called Mui Ne. We'd actually stopped here before on a 30 minute lunch break during the 12 hour bus journey from Nha Trang to Ho Chi Minh, not a lot of time to do anything, but enough time to know we wanted  to return! The town itself is laid out on a single stretch of road. Originally there was no town, only the road but a guy bought some land, built a guesthouse and over the years the whole town grew purely around tourism. I heard in the beginning the places address' were simply how far along this highway they were from the next town, not sure how true it is! One of the main reason's for its growth is because it's (apparently) the perfect conditions for Kite surfing. If by "perfect conditions" they mean, insanely windy on the beach, then yes, I'd have to agree! Most afternoons the sea is filled with Kite surfers. We've taken some photos to try to show just how many there are, but even they don't quite tell the story well enough. I probably wouldn't be too wrong if I guessed in the 200/300 surfers range for the stretch of beach you can see. Although me and Jo are, evidently, natural Kite surfers we decided not to partake this time around due to the $90/each/hour lesson price so instead chose the more creative approach, sitting in a bar, on the sea front, watching the professional's pull crazy stunts and pretending we could do it! Seriously though, some of these guys could hit a wave and be airborne for maybe 7 seconds, flying as high as 10m from the sea! Really impressive stuff. Another of our days was spent on a tour of the nearby "touristy but actually pretty nice" sights. The first of these was a place called the fairy stream. Essentially, the terrain around Mui Ne is very dry, desert like sand dunes and scrub covered dirt ground. It's famous for its white sand and also red sand dunes (two separate locations) and the fairy stream seemed to be a place where a river had formed a valley between the two. Our guide dropped us of at the coastal end of the stream and we were able to walk bare foot upstream as it was only a couple of centimetre's deep. On our left was a heavily eroded sand cliff made up of red sand whereas on our right was greenery and plant life. At one section we were able to climb the sand dunes to look down on the stream and it was quite an extraordinary view.</span>
+</p>
+<p><span>The second stop (if we ignore the 10 minute break to take a photo of some boats) was at the white sand dunes. Once we'd walked out into the dunes and the road from which we had arrived was out of view, we could have been in Egypt. The sand was so white and clean. Amongst the dunes others had rented quad bikes and such, but most people just looked around in awe. Unfortunately, as with most tours, our alloted time for gawping around at everything was up and it was onto the next place. This time, the red sand dunes. The tour was timed to allow us to watch the sunset here and we did manage to get a fair few pictures, but the wind started to pick up and this resulted in our camera having a temporary allergy to sand and not turning on again for an hour or so! The other real attraction of Mui Ne for us was the food. The fresh sea food was to die for! There was a stretch of road, slightly higher than the sea, which during the day was deserted, however at night, the place came alive! Restaurant after restaurant set up, all with their displays of seafood, both alive and dead for you to ponder over. We made an evening of the one time we splashed out (although it was dirt cheap compared to the UK) and ate scallops, octopus and a BBQ fish. Really nice food and we washed it down with a few glasses of local Da Lat wine, which happens to be the next place we are going to! Love Tom &amp;amp; Jo</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="196083" pagenr="26" rotation="0" type="normalpage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+  <background alignment="1" designElementId="201" rotation="0" type="1"/>
+  <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+  <area areatype="textarea">
+   <position height="565" left="155" rotation="0" top="165" width="2300" zposition="7000"/>
+   <decoration/>
+   <text applySpotColor="0" areaTextType="content">
+    <![CDATA[
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+
+<html>
+<head>
+<meta content="1" name="qrichtext"/>
+<style type="text/css">p { margin-bottom:50px; }</style>
+</head>
+<body style="font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;">
+<table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;">
+<tr>
+<td style="border: none;">
+<p><span>As much as we love the sun and the gorgeous beaches of Vietnam, it's not all it has to offer. Time to head up in to the central highlands to see a different part of this wonderful country.</span>
+</p>
+<p><span>In my head, Dalat was a sleepy little hill-top town with surrounding vineyards, everyone chilling out in their very French influenced villas. It was indeed very alpine-esq. It was not, however, sleepy. The city was bustling, and with the addition of hills (something we haven't experienced for a while) it was a bit of a shock to the system. Still, it was not without charm, and we actually grew quite fond of the place over our two days there. Hit the ground running as we arrived, dumped our stuff and began touring the market, 'Crazy House' and summer palace. Unfortunately, there was one downside, as one of our new friends we'd met on the bus lost her purse. We're not sure if she put it down somewhere or it was taken from her bag, but when she went back to the place we ate, it was gone. Fair play to her though, as she kept her head up and continued to tour the sites with us before rushing off to cancel cards and somehow access money from Lithuania! Cue us doing a little bit of online money transfers to bail her out, with amazing coconut cakes from her as a reward! The crazy house was indeed that. We were expecting it to be a completely gimmick and totally cheesy, but we were not expecting to enjoy it so much. We spent a good hour rushing around this concrete jungle that had a staircase over the roof. There are rooms hidden away all over the place that you can stay in. Considering one had a giant kangaroo in it with bright red eyes, I'm quite glad we didn't. The other big attractions in Dalat are the pagodas. Our original plan was to take the local steam train to one just outside of town, but having climbed the hill to the station, we learnt that the midday one had been cancelled. It turns out they need at least 20 people for it to run! Despite our best efforts, we only managed to recruit one more; Marcus from Argentina. The remaining 17 were a little harder to come by. Nevertheless we'd gained a friend in the process, so the 3 of us jumped into a taxi to option number 2; pagoda via cable car. Views were amazing, as we were lifted over trees and paddy fields. Arrived at one of the best pagodas we've seen, down largely to the gorgeous setting it's been built-in. There is  lake at the bottom of the hill surrounded by pine trees, a beautiful flower garden (that I got a bit snappy happy in) and the ornate buildings were nicely spread out, that if there were lots of tourists there I certainly didn't notice them. In the afternoon, we were at a loss what to do next. Until we saw this... Never realised how difficult it would be, but having someone else's weight on your bike is weird. I did have a go at the front steering, but didn't last long. My crazy zig zags in the road and near misses of the curb, meant Tom soon took over again. I have never gripped handle bars tighter as we went around the round about, that I had the pattern imprinted into them by the time we got off. Our entire tandem experience only last an hour! On our last evening, we finally sampled the local red wine. Other than bottles in the shops, you'd never know that this is what the town is known for. Still, when in Rome...</span>
+</p>
+<p><span>It was actually pretty good. Earlier reports from people had led us to expert the worse, and although described by our French friend (whose father also collects wine) as more like syrup than wine, we all enjoyed a glass or two. She did however swear that she would never let her father know she drank it and more importantly, liked it!</span>
+</p>
+<p><span>Optimistic that the coffee would prove more successful than the wine, we boarded the next bus to Buon Ma Thou. Had a very squashed journey getting here (25 people and a chicken). But the worst part was when we got off to discover there had also been a box of fish that had leaked all over our bags! Smelt SO bad. Was the worst walk to a guesthouse I've ever done. Plus everywhere here seemed to charge a fortune for laundry and because we put all our dirty clothes (which is everything we had with us except one outfit!) in one bag, everything smells of fish! It's horrible. Had to scrub my bag to smithereens in the wet room with a brush and shampoo, because the thought of 10 more months of it and I would have never eaten fish again!! Luckily, it was here in Buon Ma Thout that we found cheese to distract us! Wandering around a bakery we found yummy cakes, breads and randomly cheese. We devoured the lot on a park bench along with a pot of delicious Dalat strawberry jam (classy I know!). Any thoughts about fishy bag were soon gone! To top this off, we walked around town in search for a cafe recommended that over looked a coffee plantation. Not sure if we found the right address or if houses have now replaced the plantation, but the view was a bit of a let down. In true spirit of the place though, it was here that I had my first iced coffee. Must say it was actually pretty good, but as out here the coffee is really sweet, combined with the condensed milk, it tasted more like chocolate...probably the reason I liked it so much! Recharged, we also spent a day at the nearby waterfalls. One would have been impressive enough, but this place spoilt us with two falls, plus two massive suspension bridges. Of course the temptation was too much, and we played the grandest game of pooh sticks EVER! Apparently the fall looks even more spectacular in the raining season, but considering it was a lovely sunny day, I was quite happy to be seeing it when we did. They're both set into a natural park, which meant we could explore as well. Tom even built a little boat, that surprisingly enough actually floated, if only for a few moments! Love Jo and Tom xx</span>
+</p></td>
+</tr>
+</table>
+</body>
+</html>
+]]>
+    <textFormat Alignment="ALIGNLEADING" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+   </text>
+  </area>
+ </page>
+ <page designStyleID="-1" pagenr="0" rotation="0" type="emptypage">
+  <bundlesize height="2050" width="5400"/>
+  <designElementIDs background="201"/>
+  <background alignment="3" designElementId="201" rotation="0" type="1"/>
+ </page>
+ <userfeedback/>
+ <fotoRelationships/>
+ <statistics assistantUsed="0" countPauses="1" elapsedTimeGross="2023-10-09T13:33:09" elapsedTimeNet="2244" fotosAdded="0" fotosRemoved="0" pauseTime="1515" sessionsUsed="3"/>
+</fotobook>

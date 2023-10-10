@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fotobook art_id="7248" article_name="Landscape%20Matte%20Photographic%20Lay-flat%20Hardcover%20Book" externalProjectId="" folderID="7f7b5f0e-ffe1-4606-90a9-c98a41b327fb" imagedir="template_mcf-Dateien" isDataMcf="0" productname="ALB99" startdatecalendarium="" useSpineLogo="1" version="4.0">
+    <project createdWithHPSVersion="7.1.5" createdWithHPSVersionBuild="20211201" projectID="70fa8d3a-78c2-4dcc-b58b-73da5070c5d9" projectIDCreatedEpoch="1696856713"/>
+    <savingVersion compatibilityVersion="6.4.2" programversion="7.1.5" programversionBuild="20211201" savetime="2023-10-09 16:39"/>
+    <creationHistory clientId="38" clientVersion="7.1.5-20211201-default" creationDate="2023-10-09 13:33"/>
+    <articleConfig normalpages="26" pagenaming="1" totalpages="31"/>
+    <addOns/>
+    <pagenumbering bgcolor="#00000000" fontbold="0" fontfamily="Calibri" fontitalics="0" fontsize="24" format="0" margin="50" position="0" textcolor="#ff000000" textstring="%" verticalMargin="50">
+        <outline width="0"/>
+    </pagenumbering>
+    <extra>
+        <lastTextFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="5" backgroundColor="#00000000" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+    </extra>
+    <page designStyleID="196083" pagenr="0" rotation="0" type="fullcover">
+        <bundlesize height="2100" width="5590"/>
+        <designElementIDs background="201" layout="384109" styles_v2="196083"/>
+        <background alignment="4" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="384109" layout="1" templatename="full_page_fotobooks,normal"/>
+        <area areatype="spinetextarea">
+            <position height="106" left="1795" rotation="90" top="997" width="2000" zposition="7000"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="spine"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]><outline width="0"/>
+                <textFormat Alignment="ALIGNVCENTER,ALIGNLEFT" IndentMargin="0" VerticalIndentMargin="0" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+        <area areatype="textarea">
+            <position height="230" left="2888" rotation="0" top="80" width="2642" zposition="7000"/>
+            <decoration/>
+            <text applySpotColor="0" areaTextType="title"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]><outline width="0"/>
+                <textFormat Alignment="ALIGNLEFT" IndentMargin="5" VerticalIndentMargin="50" backgroundColor="#00000000" font="Calibri,12,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000" hasOutline="0"/>
+            </text>
+        </area>
+    </page>
+    <page designStyleID="196083" pagenr="0" rotation="0" type="spine">
+        <bundlesize height="2100" width="5590"/>
+        <designElementIDs background="201" styles_v2="196083"/>
+        <background alignment="4" designElementId="201" rotation="0" type="1"/>
+    </page>
+    <page designStyleID="196083" pagenr="0" rotation="0" type="fullcover">
+        <bundlesize height="2100" width="5590"/>
+        <designElementIDs background="201" layout="422099" styles_v2="196083"/>
+        <background alignment="4" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="422099" layout="1" templatename="fullcoverpage_with_title,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="0" rotation="0" type="emptypage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+    </page>
+    <page designStyleID="196083" pagenr="1" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="2" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="3" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="4" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="5" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="6" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="7" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="8" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="9" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="10" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="11" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="12" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="13" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="14" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="15" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="16" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="17" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="18" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="19" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="20" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="21" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="22" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="23" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="24" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="25" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_005,normal"/>
+    </page>
+    <page designStyleID="196083" pagenr="26" rotation="0" type="normalpage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201" layout="125026" styles_v2="196083"/>
+        <background alignment="1" designElementId="201" rotation="0" type="1"/>
+        <background designElementId="125026" layout="1" templatename="schema_landscape_001,normal"/>
+    </page>
+    <page designStyleID="-1" pagenr="0" rotation="0" type="emptypage">
+        <bundlesize height="2050" width="5400"/>
+        <designElementIDs background="201"/>
+        <background alignment="3" designElementId="201" rotation="0" type="1"/>
+    </page>
+    <userfeedback></userfeedback>
+    <fotoRelationships/>
+    <statistics assistantUsed="0" countPauses="1" elapsedTimeGross="2023-10-09T13:33:09" elapsedTimeNet="2244" fotosAdded="0" fotosRemoved="0" pauseTime="1515" sessionsUsed="3"/>
+</fotobook>
